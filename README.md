@@ -6,7 +6,7 @@ Modern day front-end positions are a multi-disciplinary job, and if you're like 
 
 ## Plan
 
-The goal of this series is to over the next 6 months explore (or re-explore) a range of topics from this list - time-boxing each subject to 7 days  ( evenings / weekends as I have a full-time job to keep up with also! ).
+The goal of this series is to over the next 6 months explore (or re-explore) a range of topics from this list - time-boxing each subject to 7 days ( evenings / weekends as I have a full-time job to keep up with also :) ).
 
 Just how much can we learn in 7 days?
 
