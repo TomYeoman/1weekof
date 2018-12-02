@@ -1,0 +1,1 @@
+Covered interfaces + the implemetation of the data structures used within the interfaces
